@@ -1,0 +1,19 @@
+footer {
+    background-color: rgba(27, 27, 109, 0.733);
+    color: rgba(202, 210, 214, 0.747);
+    bottom: 0%;
+    margin: 0px;
+    width: 100%;
+  }
+  footer .faceLogo {
+    transition: all 1s ease;
+  }
+  footer .faceLogo:hover {
+    transform: scale(1.2, 1.2);
+  }
+  footer .instaLogo {
+    transition: all 1s ease;
+  }
+  footer .instaLogo:hover {
+    transform: scale(1.2, 1.2);
+  }

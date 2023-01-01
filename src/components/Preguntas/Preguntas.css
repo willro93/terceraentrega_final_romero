@@ -1,0 +1,14 @@
+h2 {
+    font-weight: bold;
+    text-align: center;
+    color: blanchedalmond;
+}
+.centro4 {
+    background-color: rgb(202, 158, 165);
+    height: 450px;
+    font-size: 1.5rem;
+    overflow: auto;
+}
+.centro4 ul {
+    text-align: left;
+  }
